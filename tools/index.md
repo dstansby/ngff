@@ -6,57 +6,26 @@ In addition to this collection, an evaluation of selected tools/libraries is ava
 
 ## Image viewers
 
-### AGAVE
+| Name           | Description                                                                                                                                                      |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AGAVE]        | A desktop application for viewing multichannel volume data.                                                                                                      |
+| [ITKWidgets]   | A Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry.              |
+| [MoBIE/BDV]    | A Fiji plugin for exploring and sharing big multi-modal image and associated tabular data.                                                                       |
+| [napari]       | A fast, interactive, multi-dimensional image viewer for Python that supports OME-Zarr with the [napari-ome-zarr](https://github.com/ome/napari-ome-zarr) plugin. |
+| [neuroglancer] | A WebGL-based viewer for volumetric data.                                                                                                                        |
+| [viv]          | A WebGL-powered toolkit for interactive visualization of high-resolution, multiplexed bioimaging datasets.                                                       |
+| [WEBKNOSSOS]   | An open-source tool for annotating and exploring large 3D image datasets.                                                                                        |
+| [Vol-E]        | A browser-based volume viewer built with React and WebGL (Three.js).                                                                                             |
 
-<https://github.com/allen-cell-animated/agave>
-
-A desktop application for viewing multichannel volume data.
-
-### ITKWidgets
-
-<https://github.com/InsightSoftwareConsortium/itkwidgets>
-
-A Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry.
-
-### MoBIE/BDV
-
-<https://github.com/mobie/mobie-viewer-fiji>
-
-A Fiji plugin for exploring and sharing big multi-modal image and associated tabular data.
-
-### napari
-
-<https://github.com/napari/napari>
-
-A fast, interactive, multi-dimensional image viewer for Python that supports OME-Zarr with the [napari-ome-zarr](https://github.com/ome/napari-ome-zarr) plugin.
-
-### Neuroglancer
-
-<https://github.com/google/neuroglancer>
-
-A WebGL-based viewer for volumetric data.
-
-### Viv (Avivator, Vizarr, Vitessce, ...)
-
-<https://github.com/hms-dbmi/viv>
-
-A WebGL-powered toolkit for interactive visualization of high-resolution, multiplexed bioimaging datasets.
-
-The viv toolkit is used by the [Avivator](https://avivator.gehlenborglab.org), [Vizarr](https://github.com/hms-dbmi/vizarr) and [Vitessce](http://vitessce.io) image viewers, among others.
-
-<iframe style="width: 100%; height: 500px" name="vizarr" src="https://hms-dbmi.github.io/vizarr/?source=https://uk1s3.embassy.ebi.ac.uk/idr/zarr/v0.1/4495402.zarr"></iframe>
-
-### WEBKNOSSOS
-
-<https://github.com/scalableminds/webknossos>
-
-An open-source tool for annotating and exploring large 3D image datasets.
-
-### AICS Image Viewer
-
-<https://github.com/allen-cell-animated/website-3d-cell-viewer>
-
-A browser-based volume viewer built with React and WebGL (Three.js).
+[AGAVE]: https://github.com/allen-cell-animated/agave
+[ITKWidgets]: https://github.com/InsightSoftwareConsortium/itkwidgets
+[MoBIE/BDV]: https://github.com/mobie/mobie-viewer-fiji
+[napari]: https://github.com/napari/napari
+[napari-ome-zarr]: https://github.com/ome/napari-ome-zarr
+[neuroglancer]: https://github.com/google/neuroglancer
+[viv]: https://github.com/hms-dbmi/viv
+[WEBKNOSSOS]: https://github.com/scalableminds/webknossos
+[Vol-E]: https://github.com/allen-cell-animated/website-3d-cell-viewer
 
 ## File conversion
 
