@@ -6,17 +6,13 @@ In addition to this collection, an evaluation of selected tools/libraries is ava
 
 ## Image viewers
 
-### AGAVE
+| Name         | Description                                                                                                                                         |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AGAVE]      | A desktop application for viewing multichannel volume data.                                                                                         |
+| [ITKWidgets] | A Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry. |
 
-<https://github.com/allen-cell-animated/agave>
-
-A desktop application for viewing multichannel volume data.
-
-### ITKWidgets
-
-<https://github.com/InsightSoftwareConsortium/itkwidgets>
-
-A Python interface for visualization on the web platform to interactively generate insights into multidimensional images, point sets, and geometry.
+[AGAVE]: https://github.com/allen-cell-animated/agave
+[ITKWidgets]: https://github.com/InsightSoftwareConsortium/itkwidgets
 
 ### MoBIE/BDV
 
